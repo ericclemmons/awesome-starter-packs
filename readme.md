@@ -49,6 +49,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Role
 
+> These Starter Packs are curated by Role or Job Function.
+
 ### Data
 
 - [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) - [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
