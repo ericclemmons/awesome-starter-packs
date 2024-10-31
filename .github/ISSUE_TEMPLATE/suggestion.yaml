@@ -34,8 +34,7 @@ body:
     id: recommended-section
     attributes:
       label: Recommended section
-      description: e.g. React Native
-      placeholder: React Native
+      description: e.g. Technology > React Native
     validations:
       required: true
 
