@@ -85,7 +85,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Contributing
 
-👉 [Suggest a starter pack!](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
+- [Submit a Starter Pack PR](https://github.com/ericclemmons/awesome-starter-packs/edit/main/readme.md)
+- [Open an Issue requesting a Starter Pack](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
 
 ## Contributors
 
