@@ -35,6 +35,8 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [React Native](#react-native)
   - [Web](#web)
 
+---
+
 <!-- CONTENT -->
 
 ### Personal
