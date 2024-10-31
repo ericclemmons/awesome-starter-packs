@@ -26,7 +26,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Contents
 
-- [Personal](#technology)
+- [Personal](#personal)
 - [Role](#role)
   - [DevRel](#devrel)
 - [Technology](#technology)
