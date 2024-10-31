@@ -24,57 +24,66 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 <!-- TOC -->
 
+## Contents
+
+- [Personal](#personal)
+- [Role](#role)
+  - [DevRel](#devrel)
+- [Technology](#technology)
+  - [Data](#data)
+  - [React](#react)
+  - [React Native](#react-native)
+  - [Web](#web)
+- [Contributors](#contributors)
+
 ---
 
 <!-- CONTENT -->
 
-### Personal
+## Personal
 
 > These are Starter Packs curated by individuals.
 
-- [joel 🌦️'s Starter Pack](https://bsky.app/starter-pack/joelhooks.com/3kvubopznv42u), by [joel 🌦️](https://bsky.app/profile/joelhooks.com/post/3l7qfed2kgm25)
-- [Josh's Starter Pack](https://bsky.app/starter-pack/joshwcomeau.com/3l7jgum7g5g2g), by [Josh W. Comeau 👻](https://bsky.app/profile/joshwcomeau.com/post/3l7nqbl3smb2p)
+- [joel 🌦️'s Starter Pack](https://bsky.app/starter-pack/joelhooks.com/3kvubopznv42u) - [joel 🌦️](https://bsky.app/profile/joelhooks.com/post/3l7qfed2kgm25)
+- [Josh's Starter Pack](https://bsky.app/starter-pack/joshwcomeau.com/3l7jgum7g5g2g) - [Josh W. Comeau 👻](https://bsky.app/profile/joshwcomeau.com/post/3l7nqbl3smb2p)
 
-### Role
+## Role
 
-#### DevRel
+### DevRel
 
-- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a), by [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
+- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
-### Technology
+## Technology
 
 > These are Starter Packs curated around a specific technology or field.
 
-#### Data
+### Data
 
-- [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24), by [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
-- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe), by [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
+- [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24) - [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
+- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) - [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
 
-#### React
+### React
 
 - TODO
 
-#### React Native
+### React Native
 
 - [Expo Team](https://bsky.app/starter-pack/kadi.bsky.social/3l7pjcvfbwg2w) - by [Kadi Kraman](https://bsky.app/profile/kadi.bsky.social/post/3l7pspn4tuv2t)
-- [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y), by [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
+- [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
 
-#### Web
+### Web
 
-- [Welcome to Bluesky, web friends](https://bsky.app/starter-pack/piccalil.li/3kzombrxts22n), by [Andy Bell](https://bsky.app/profile/bell.bz/post/3l7lynxynf52c)
+- [Welcome to Bluesky, web friends](https://bsky.app/starter-pack/piccalil.li/3kzombrxts22n) - [Andy Bell](https://bsky.app/profile/bell.bz/post/3l7lynxynf52c)
 
 <!-- END CONTENT -->
 
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-- [@ericclemmons.com](https://bsky.app/profile/ericclemmons.com)
-
 ## Contributing
 
-[Suggest a starter pack!](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
+👉 [Suggest a starter pack!](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
 
-### Contributors
+## Contributors
 
-[Thanks goes to these contributors](https://github.com/ericclemmons/awesome-starter-packs/graphs/contributors)!
+<!--lint ignore awesome-list-item-->
+
+- [@ericclemmons.com](https://bsky.app/profile/ericclemmons.com)
+- [&hellip;and more](https://github.com/ericclemmons/awesome-starter-packs/graphs/contributors)!
