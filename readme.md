@@ -30,8 +30,12 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Role](#role)
   - [Data](#data)
   - [DevRel](#devrel)
+  - [Frontend](#frontend)
+  - [UI](#ui)
 - [Technology](#technology)
+  - [ATProto](#atproto)
   - [Laravel](#laravel)
+  - [Python](#python)
   - [React](#react)
   - [React Native](#react-native)
   - [Web](#web)
@@ -60,13 +64,29 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
+### Frontend
+
+- [🐴 Frontend Horse](https://go.bsky.app/TUuRD73) - [Ryan Trimble](https://bsky.app/profile/trost.codes/post/3l7slscbgkf2j)
+
+### UI
+
+- [UI](https://go.bsky.app/3gFAT6Y) - [Joe Bell](https://bsky.app/profile/joebell.studio/post/3l7s7pjyk5v2w)
+
 ## Technology
 
 > These are Starter Packs curated around a specific technology or field.
 
+### ATProto
+
+- [@ ATProto Developers](https://bsky.app/starter-pack/mackuba.eu/3kvucqy663j2l) - [Kuba Suder](https://bsky.app/profile/suboptimal.technology/post/3l7pyhso44x2q)
+
 ### Laravel
 
 - [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24) - [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
+
+### Python
+
+- [Pythonistas 🐍](https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z) - [Jesper Dr.amsch](https://bsky.app/profile/jesper.drams.ch/post/3l7o27iryta2z)
 
 ### React
 
@@ -85,7 +105,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Contributing
 
-👉 [Suggest a starter pack!](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
+- [Submit a Starter Pack PR](https://github.com/ericclemmons/awesome-starter-packs/edit/main/readme.md)
+- [Open an Issue requesting a Starter Pack](https://github.com/ericclemmons/awesome-starter-packs/issues/new?assignees=&labels=&projects=&template=suggestion.yaml)
 
 ## Contributors
 
