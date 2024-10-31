@@ -4,23 +4,21 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ericclemmons/awesome-starter-packs/actions/workflows/lint.yaml/badge.svg)](https://github.com/ericclemmons/awesome-starter-packs/actions/workflows/lint.yaml)
+# Awesome Bluesky Starter Packs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ericclemmons/awesome-starter-packs/actions/workflows/lint.yaml/badge.svg)](https://github.com/ericclemmons/awesome-starter-packs/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Bluesky Starter Packs to find awesome accounts to follow
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="https://bsky.app" target="_blank" rel="noopener noreferrer">
+  <img alt="Bluesky logo" src="./logo.png" />
 </a>
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+[Bluesky](https://bsky.app/) is a decentralized social media platform built on the AT protocol. ([More...](https://blueskyweb.zendesk.com/hc/en-us/articles/19002666608397-What-is-Bluesky))
 
 </div>
 
