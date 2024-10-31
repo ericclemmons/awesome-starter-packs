@@ -41,7 +41,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Personal
 
-These are Starter Packs curated by individuals.
+> These are Starter Packs curated by individuals.
 
 - [joel 🌦️'s Starter Pack](https://bsky.app/starter-pack/joelhooks.com/3kvubopznv42u) – by [joel 🌦️](https://bsky.app/profile/joelhooks.com/post/3l7qfed2kgm25)
 - [Josh's Starter Pack](https://bsky.app/starter-pack/joshwcomeau.com/3l7jgum7g5g2g) – by [Josh W. Comeau 👻](https://bsky.app/profile/joshwcomeau.com/post/3l7nqbl3smb2p)
@@ -54,7 +54,7 @@ These are Starter Packs curated by individuals.
 
 ### Technology
 
-These are Starter Packs curated around a specific technology or field.
+> These are Starter Packs curated around a specific technology or field.
 
 #### Data
 
