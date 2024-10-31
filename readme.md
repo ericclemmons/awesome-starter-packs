@@ -113,4 +113,5 @@ Bluesky Starter Packs to find awesome accounts to follow
 <!--lint ignore awesome-list-item-->
 
 - [@ericclemmons.com](https://bsky.app/profile/ericclemmons.com)
+- [@matty.wtf](https://bsky.app/profile/matty.wtf)
 - [&hellip;and more](https://github.com/ericclemmons/awesome-starter-packs/graphs/contributors)!
