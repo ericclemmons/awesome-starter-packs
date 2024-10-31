@@ -31,6 +31,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Data](#data)
   - [DevRel](#devrel)
 - [Technology](#technology)
+  - [Laravel](#laravel)
   - [React](#react)
   - [React Native](#react-native)
   - [Web](#web)
