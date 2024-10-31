@@ -34,6 +34,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [UI](#ui)
 - [Technology](#technology)
   - [Laravel](#laravel)
+  - [Python](#python)
   - [React](#react)
   - [React Native](#react-native)
   - [Web](#web)
@@ -77,6 +78,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Laravel
 
 - [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24) - [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
+
+### Python
+
+- [Pythonistas 🐍](https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z) - [Jesper Dr.amsch](https://bsky.app/profile/jesper.drams.ch/post/3l7o27iryta2z)
 
 ### React
 
