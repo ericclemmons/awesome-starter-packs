@@ -49,13 +49,13 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Role
 
-### DevRel
-
-- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
-
 ### Data
 
 - [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) - [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
+
+### DevRel
+
+- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
 ## Technology
 
