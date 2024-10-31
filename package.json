@@ -1,0 +1,8 @@
+{
+  "name": "awesome-starter-packs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "pnpx awesome-lint"
+  }
+}
