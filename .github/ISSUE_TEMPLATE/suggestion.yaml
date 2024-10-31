@@ -15,10 +15,10 @@ body:
       required: true
       
   - type: input
-    id: owner-handle
+    id: owner-name
     attributes:
-      label: Starter Pack Owner's Handle
-      description: e.g. @ericclemmons.com
+      label: Starter Pack Owner's Name
+      description: e.g. Eric Clemmons
     validations:
       required: true
 
