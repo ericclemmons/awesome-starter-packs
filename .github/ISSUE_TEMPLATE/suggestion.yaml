@@ -5,19 +5,45 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this suggestion form!
+        
   - type: input
-    id: suggestion
+    id: starter-pack-link
     attributes:
-      label: Link to suggestion
-      description: Please share a link to your suggestion
-      placeholder: https://...
+      label: Link to Starter Pack
+      description: e.g. https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y
     validations:
       required: true
+      
+  - type: input
+    id: owner-handle
+    attributes:
+      label: Starter Pack Owner's Handle
+      description: e.g. @ericclemmons.com
+    validations:
+      required: true
+
+  - type: input
+    id: announcement-post-link
+    attributes:
+      label: Link to announcement post
+      description: e.g. https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d
+    validations:
+      required: true
+      
+  - type: input
+    id: recommended-section
+    attributes:
+      label: Recommended section
+      description: e.g. React Native
+      placeholder: React Native
+    validations:
+      required: true
+
   - type: textarea
     id: description
     attributes:
-      label: Describe your suggestion
+      label: Anything else?
       description: How and why is your suggestion useful to this community?
       placeholder: I wish to see tool <xyz> here becuase it is used for...
     validations:
-      required: true
+      required: false
