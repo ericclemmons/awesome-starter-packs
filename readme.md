@@ -60,6 +60,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
+### Frontend
+
+- [🐴 Frontend Horse](https://go.bsky.app/TUuRD73) - [Ryan Trimble](https://bsky.app/profile/trost.codes/post/3l7slscbgkf2j)
+
 ## Technology
 
 > These are Starter Packs curated around a specific technology or field.
