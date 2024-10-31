@@ -18,7 +18,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 <!-- description -->
 
-[Bluesky](https://bsky.app/) is a decentralized social media platform built on the AT protocol. ([More](https://blueskyweb.zendesk.com/hc/en-us/articles/19002666608397-What-is-Bluesky))
+[Bluesky](https://bsky.app/) is a decentralized social media platform built on the AT protocol.
 
 </div>
 
