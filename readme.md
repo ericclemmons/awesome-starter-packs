@@ -58,9 +58,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 #### Data
 
-- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) – by [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
-
 - [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24) – by [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
+- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) – by [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
 
 #### React
 
