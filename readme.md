@@ -33,6 +33,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Frontend](#frontend)
   - [UI](#ui)
 - [Technology](#technology)
+  - [ATProto](#atproto)
   - [Laravel](#laravel)
   - [Python](#python)
   - [React](#react)
@@ -74,6 +75,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ## Technology
 
 > These are Starter Packs curated around a specific technology or field.
+
+### ATProto
+
+- [@ ATProto Developers](https://bsky.app/starter-pack/mackuba.eu/3kvucqy663j2l) - [Kuba Suder](https://bsky.app/profile/suboptimal.technology/post/3l7pyhso44x2q)
 
 ### Laravel
 
