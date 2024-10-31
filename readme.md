@@ -28,9 +28,9 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Personal](#personal)
 - [Role](#role)
+  - [Data](#data)
   - [DevRel](#devrel)
 - [Technology](#technology)
-  - [Data](#data)
   - [React](#react)
   - [React Native](#react-native)
   - [Web](#web)
@@ -53,14 +53,17 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
+### Data
+
+- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) - [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
+
 ## Technology
 
 > These are Starter Packs curated around a specific technology or field.
 
-### Data
+### Laravel
 
 - [Laravel Friends](https://bsky.app/starter-pack/mijustin.bsky.social/3l75rwvv4ii24) - [Justin Jackson](https://bsky.app/profile/mijustin.bsky.social/post/3l7oevuw4zw25)
-- [Nice data people](https://bsky.app/starter-pack-short/T1SxhAe) - [Arynnpost](https://bsky.app/profile/arynn.bsky.social/post/3l7lnbjv3zd2o)
 
 ### React
 
