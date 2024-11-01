@@ -34,6 +34,8 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [DevRel](#devrel)
   - [Engineering Management](#engineering-management)
   - [Frontend](#frontend)
+  - [Infrastructure](#infrastructure)
+  - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
   - [UI](#ui)
   - [UX](#ux)
@@ -42,6 +44,8 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Android](#android)
   - [Apple](#apple)
   - [ATProto](#atproto)
+  - [AWS](#aws)
+  - [DuckDB](#duckdb)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
   - [Node.js](#nodejs)
@@ -96,6 +100,14 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [🐴 Frontend Horse](https://go.bsky.app/TUuRD73) - [Ryan Trimble](https://bsky.app/profile/trost.codes/post/3l7slscbgkf2j)
 
+### Infrastructure
+
+- [Infrastructure Engineers](https://bsky.app/starter-pack-short/SCZe42X) - [Chris Riccomini](https://bsky.app/profile/chris.blue/post/3l7cfiy5jrc2s)
+
+### Linguistics
+
+- [Linguistics](https://bsky.app/starter-pack-short/UUM7Gcx) - [Gretchen McCulloch](https://bsky.app/starter-pack-short/SCZe42X)
+
 ### Platform Engineering
 
 - [Platform Engineering](https://bsky.app/starter-pack/bryanross.me/3l7pz6aoenx2s) - [Bryan Ross](https://bsky.app/profile/bryanross.me/post/3l7qdk2dzck2e)
@@ -128,6 +140,14 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [@ ATProto Developers](https://bsky.app/starter-pack/mackuba.eu/3kvucqy663j2l) - [Kuba Suder](https://bsky.app/profile/suboptimal.technology/post/3l7pyhso44x2q)
 - [Protocol Pals](https://bsky.app/starter-pack/samuel.bsky.team/3kztso5fnic24) - [Samuel](https://bsky.app/profile/josh412.com/post/3l7tn3ufghe2g)
+
+### AWS
+
+- [AWS Serverless](https://bsky.app/starter-pack-short/DatZhiS) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7i7xtd7l72y)
+
+### DuckDB
+
+- [DuckDB](https://bsky.app/starter-pack-short/J5FnG3n) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7ghxfycgq2s)
 
 ### JavaScript
 
