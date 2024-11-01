@@ -86,7 +86,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### DevRel
 
-- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton needs a jobby job](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
+- [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
 ### Engineering Management
 
@@ -171,4 +171,5 @@ Bluesky Starter Packs to find awesome accounts to follow
 <!--lint ignore awesome-list-item-->
 
 - [@ericclemmons.com](https://bsky.app/profile/ericclemmons.com)
+- [@matty.wtf](https://bsky.app/profile/matty.wtf)
 - [&hellip;and more](https://github.com/ericclemmons/awesome-starter-packs/graphs/contributors)!
