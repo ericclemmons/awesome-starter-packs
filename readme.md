@@ -177,7 +177,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Svelte
 
-- [Svelte Fam](http://localhost:19006/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](http://localhost:19006/profile/stordahl.dev/post/3l7vxvpiq7d2d)
+- [Svelte Fam](https://bsky.app/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 
 ### Web
 
