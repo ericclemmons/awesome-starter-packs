@@ -52,6 +52,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Python](#python)
   - [React](#react)
   - [React Native](#react-native)
+  - [Svelte](#svelte)
   - [Web](#web)
 - [Contributors](#contributors)
 
@@ -173,6 +174,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Expo Team](https://bsky.app/starter-pack/kadi.bsky.social/3l7pjcvfbwg2w) - by [Kadi Kraman](https://bsky.app/profile/kadi.bsky.social/post/3l7pspn4tuv2t)
 - [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
+
+### Svelte
+
+- [Svelte Fam](http://localhost:19006/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](http://localhost:19006/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 
 ### Web
 
