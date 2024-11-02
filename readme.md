@@ -79,6 +79,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ## Podcasts
 
 - [Devtools FM Guests](https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7uo5izlxe2a)
+- [Developer Podcasts](https://bsky.app/starter-pack/devtools.fm/3l7yehqiyip2q) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7yekvodgh2r)
 
 ## Role
 
