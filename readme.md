@@ -38,6 +38,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Infrastructure](#infrastructure)
   - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
+  - [Software Testing and Quality](#software-testing-and-quality)
   - [UI](#ui)
   - [UX](#ux)
 - [Technology](#technology)
