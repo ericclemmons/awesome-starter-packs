@@ -205,6 +205,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Web performance pack](https://bsky.app/starter-pack/did:plc:bxuncred3t7neoojsbsbljio/3l7m3tmqhkh23) - [Sia Karamalegos](https://bsky.app/profile/anniesullie.bsky.social/post/3l7m4acsyuc2v)
 - [Welcome to Bluesky, web friends](https://bsky.app/starter-pack/piccalil.li/3kzombrxts22n) - [Andy Bell](https://bsky.app/profile/bell.bz/post/3l7lynxynf52c)
+- [General Web Dev folks](https://go.bsky.app/ATDarYi) - [ndom91]([https://bsky.app/ndo.dev](https://bsky.app/profile/ndo.dev/post/3l7zvdmwtyo27))
 
 ### Web Components
 
