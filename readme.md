@@ -54,6 +54,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [React](#react)
   - [React Native](#react-native)
   - [Storybook](#storybook)
+  - [Solid](#solid)
   - [Svelte](#svelte)
   - [Vite](#vite)
   - [Web](#web)
@@ -191,6 +192,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Storybook
 
 - [Storybook community](https://go.bsky.app/D48Nv2) - by [@shilman](https://bsky.app/profile/storybookjs.bsky.social/post/3l7z77vxn5n2x)
+
+### Solid
+
+- [SolidPack](https://go.bsky.app/B5SDCmM) - [Atila Fassina 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 
 ### Svelte
 
