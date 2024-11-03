@@ -165,6 +165,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Python
 
 - [Pythonistas 🐍](https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z) - [Jesper Dr.amsch](https://bsky.app/profile/jesper.drams.ch/post/3l7o27iryta2z)
+- [PyLadies 💙💛](https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26) - [Cosima Meyer](https://bsky.app/profile/cosima.bsky.social/post/3la2a56ukn326)
 
 ### React
 
