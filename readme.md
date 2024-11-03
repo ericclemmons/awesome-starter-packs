@@ -180,7 +180,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Storybook
 
-- [Storybook community](https://go.bsky.app/D48Nv2) - by @shilman
+- [Storybook community](https://go.bsky.app/D48Nv2) - by [@shilman](https://bsky.app/profile/storybookjs.bsky.social/post/3l7z77vxn5n2x)
 
 ### Svelte
 
