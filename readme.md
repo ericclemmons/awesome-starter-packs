@@ -124,6 +124,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Platform Engineering](https://bsky.app/starter-pack/bryanross.me/3l7pz6aoenx2s) - [Bryan Ross](https://bsky.app/profile/bryanross.me/post/3l7qdk2dzck2e)
 
+### Software Testing and Quality
+
+- [Software Testing and Quality people](https://go.bsky.app/DVX3b4h) - [Ministry of Testing](https://bsky.app/profile/ministryoftesting.com)
+
 ### UI
 
 - [UI](https://go.bsky.app/3gFAT6Y) - [Joe Bell](https://bsky.app/profile/joebell.studio/post/3l7s7pjyk5v2w)
