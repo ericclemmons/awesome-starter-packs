@@ -52,6 +52,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Python](#python)
   - [React](#react)
   - [React Native](#react-native)
+  - [Storybook](#storybook)
   - [Svelte](#svelte)
   - [Web](#web)
 - [Contributors](#contributors)
@@ -79,6 +80,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ## Podcasts
 
 - [Devtools FM Guests](https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7uo5izlxe2a)
+- [Developer Podcasts](https://bsky.app/starter-pack/devtools.fm/3l7yehqiyip2q) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7yekvodgh2r)
 
 ## Role
 
@@ -165,6 +167,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Python
 
 - [Pythonistas 🐍](https://bsky.app/starter-pack/jesper.drams.ch/3l7j6coaqcr2z) - [Jesper Dr.amsch](https://bsky.app/profile/jesper.drams.ch/post/3l7o27iryta2z)
+- [PyLadies 💙💛](https://bsky.app/starter-pack/cosima.bsky.social/3l7zmdn5tsp26) - [Cosima Meyer](https://bsky.app/profile/cosima.bsky.social/post/3la2a56ukn326)
 
 ### React
 
@@ -175,9 +178,13 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Expo Team](https://bsky.app/starter-pack/kadi.bsky.social/3l7pjcvfbwg2w) - by [Kadi Kraman](https://bsky.app/profile/kadi.bsky.social/post/3l7pspn4tuv2t)
 - [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
 
+### Storybook
+
+- [Storybook community](https://go.bsky.app/D48Nv2) - by @shilman
+
 ### Svelte
 
-- [Svelte Fam](http://localhost:19006/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](http://localhost:19006/profile/stordahl.dev/post/3l7vxvpiq7d2d)
+- [Svelte Fam](https://bsky.app/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 - [Svelte starter pack](https://go.bsky.app/QEhPG3P) - [Scott Spence](https://bsky.app/profile/scottspence.dev)
 
 ### Web
