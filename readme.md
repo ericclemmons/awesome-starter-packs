@@ -26,6 +26,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Contents
 
+- [Conferences](#conferences)
 - [Organizations](#organizations)
 - [Personal](#personal)
 - [Podcasts](#podcasts)
@@ -54,7 +55,9 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [React Native](#react-native)
   - [Storybook](#storybook)
   - [Svelte](#svelte)
+  - [Vite](#vite)
   - [Web](#web)
+  - [Web Components](#web-components)
 - [Contributors](#contributors)
 
 ---
@@ -63,12 +66,17 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 <!--lint disable double-link-->
 
+## Conferences
+
+- [NodeConfEU 2024](https://bsky.app/starter-pack-short/9jaQPgi) - by [Ruy Adorno](https://bsky.app/profile/ruyadorno.bsky.social/post/3l7ye6izjon2s)
+
 ## Organizations
 
 > These are Starter Packs curated by companies or organizations.
 
 - [Diversify Tech](https://bsky.app/starter-pack/diversifytech.com/3l7bakgvapc2m) - [Diversify Tech](https://bsky.app/profile/veni.dev/post/3l7twqrq2p426)
 - [GitHub Stars](https://bsky.app/starter-pack/did:plc:hdpw4dc47olxql7pyhpshvxb/3l7ljmricf22o) - [Jess Temporal](https://bsky.app/profile/jesstemporal.com/post/3l7vdn7cq6a2d)
+- [OSS TypeScript Wizards](https://bsky.app/starter-pack-short/84ChefN) - by [Colin McDonnell](https://bsky.app/profile/colinhacks.com/post/3l7yvjyhviq2l)
 
 ## Personal
 
@@ -81,6 +89,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Devtools FM Guests](https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7uo5izlxe2a)
 - [Developer Podcasts](https://bsky.app/starter-pack/devtools.fm/3l7yehqiyip2q) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7yekvodgh2r)
+- [Syntax Guests](https://bsky.app/starter-pack-short/SoASbQA) - by [Syntax](https://bsky.app/profile/syntax.fm/post/3l7y45qbx3j23)
 
 ## Role
 
@@ -176,7 +185,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### React Native
 
 - [Expo Team](https://bsky.app/starter-pack/kadi.bsky.social/3l7pjcvfbwg2w) - by [Kadi Kraman](https://bsky.app/profile/kadi.bsky.social/post/3l7pspn4tuv2t)
-- [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
+- [React Native](https://bsky.app/starter-pack-short/MsxksZZ) - by [async/await a minute](https://bsky.app/profile/coolsoftware.dev/post/3l7y4ktybgd2q)
+- [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - by [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
 
 ### Storybook
 
@@ -187,11 +197,18 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Svelte Fam](https://bsky.app/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 - [Svelte starter pack](https://go.bsky.app/QEhPG3P) - [Scott Spence](https://bsky.app/profile/scottspence.dev)
 
+### Vite
+
+- [Vite Ecosystem](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Vite](https://bsky.app/profile/vite.dev/post/3l7zvlirduo2z)
+
 ### Web
 
 - [Web performance pack](https://bsky.app/starter-pack/did:plc:bxuncred3t7neoojsbsbljio/3l7m3tmqhkh23) - [Sia Karamalegos](https://bsky.app/profile/anniesullie.bsky.social/post/3l7m4acsyuc2v)
 - [Welcome to Bluesky, web friends](https://bsky.app/starter-pack/piccalil.li/3kzombrxts22n) - [Andy Bell](https://bsky.app/profile/bell.bz/post/3l7lynxynf52c)
 
+### Web Components
+
+- [Web Components](https://bsky.app/starter-pack/darn.es/3l6xfmavuxm2x) - by [Dave 🧱](https://bsky.app/profile/knowler.dev/post/3l7ydhpob6o2l)
 <!-- END CONTENT -->
 
 ## Contributing
