@@ -195,7 +195,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Solid
 
-- [SolidPack](https://go.bsky.app/B5SDCmM) - [Atila Fassina 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
+- [SolidPack](https://go.bsky.app/B5SDCmM) - [Atila Fassina](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 
 ### Svelte
 
