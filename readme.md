@@ -215,7 +215,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### UnJS
 
-- [UnJS ecosystem](https://bsky.app/starter-pack/unjs.io/3la74udbl6m2s) - by [@pi0](https://bsky.app/profile/pi0.io)
+- [UnJS ecosystem](https://bsky.app/starter-pack/unjs.io/3la74udbl6m2s) - by [@pi0](https://bsky.app/profile/pi0.io/post/3la76dz5fjs25)
 
 ### Web
 
