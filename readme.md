@@ -93,6 +93,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Devtools FM Guests](https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7uo5izlxe2a)
 - [Developer Podcasts](https://bsky.app/starter-pack/devtools.fm/3l7yehqiyip2q) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7yekvodgh2r)
 - [Syntax Guests](https://bsky.app/starter-pack-short/SoASbQA) - by [Syntax](https://bsky.app/profile/syntax.fm/post/3l7y45qbx3j23)
+- [DejaVue Guests](https://bsky.app/starter-pack/dejavue.fm/3l7vm62laok2h) - by [DejaVue](https://bsky.app/profile/dejavue.fm/post/3l7vma632ws2w)
 
 ## Role
 
@@ -217,7 +218,9 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Vue
 
-- [Vue.js](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
+- [Vite Ecosystem Builders](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Filip Rakowski](https://bsky.app/profile/filrakow.ski/post/3l7syjkblnv25)
+- [Vue and Nuxt.js Developers](https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m) - by [Alexander Lichter](https://bsky.app/profile/thealexlichter.com)
+- [Vue.js Starter](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Web
 
