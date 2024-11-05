@@ -57,7 +57,9 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Storybook](#storybook)
   - [Solid](#solid)
   - [Svelte](#svelte)
+  - [UnJS](#unjs)
   - [Vite](#vite)
+  - [Vue](#vue)
   - [Web](#web)
   - [Web Components](#web-components)
 - [Contributors](#contributors)
@@ -92,6 +94,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Devtools FM Guests](https://bsky.app/starter-pack/devtools.fm/3l7uo2usby32x) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7uo5izlxe2a)
 - [Developer Podcasts](https://bsky.app/starter-pack/devtools.fm/3l7yehqiyip2q) - [devtools.fm](https://bsky.app/profile/devtools.fm/post/3l7yekvodgh2r)
 - [Syntax Guests](https://bsky.app/starter-pack-short/SoASbQA) - by [Syntax](https://bsky.app/profile/syntax.fm/post/3l7y45qbx3j23)
+- [DejaVue Guests](https://bsky.app/starter-pack/dejavue.fm/3l7vm62laok2h) - by [DejaVue](https://bsky.app/profile/dejavue.fm/post/3l7vma632ws2w)
 
 ## Role
 
@@ -172,6 +175,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### JavaScript
 
 - [Node.js & JavaScript](https://bsky.app/starter-pack/patrickheneise.com/3l25qs3fipj2l) - [Patrick Heneise](https://bsky.app/profile/josh412.com/post/3l7tmuofxjm2g)
+- [Web Dev Content Creators](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Laravel
 
@@ -202,20 +206,26 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Solid
 
-- [SolidPack](https://go.bsky.app/B5SDCmM) - [Atila Fassina 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
+- [SolidPack](https://go.bsky.app/B5SDCmM) - [Atila Fassina](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 
 ### Svelte
 
 - [Svelte Fam](https://bsky.app/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 - [Svelte starter pack](https://go.bsky.app/QEhPG3P) - [Scott Spence](https://bsky.app/profile/scottspence.dev)
 
+### UnJS
+
+- [UnJS ecosystem](https://bsky.app/starter-pack/unjs.io/3la74udbl6m2s) - by [@pi0](https://bsky.app/profile/pi0.io/post/3la76dz5fjs25)
+
 ### Vite
 
 - [Vite Ecosystem](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Vite](https://bsky.app/profile/vite.dev/post/3l7zvlirduo2z)
 
-### UnJS
+### Vue
 
-- [UnJS ecosystem](https://bsky.app/starter-pack/unjs.io/3la74udbl6m2s) - by [@pi0](https://bsky.app/profile/pi0.io/post/3la76dz5fjs25)
+- [Vite Ecosystem Builders](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Filip Rakowski](https://bsky.app/profile/filrakow.ski/post/3l7syjkblnv25)
+- [Vue and Nuxt.js Developers](https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m) - by [Alexander Lichter](https://bsky.app/profile/thealexlichter.com)
+- [Vue.js Starter](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Web
 
