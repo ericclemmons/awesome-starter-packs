@@ -156,6 +156,8 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### AWS
 
 - [AWS Serverless](https://bsky.app/starter-pack-short/DatZhiS) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7i7xtd7l72y)
+- [AWS Heroes](https://go.bsky.app/EZ7AYrd) - [Chris Williams](https://bsky.app/profile/mistwire.com/post/3l7gdgvaqlv2y)
+- [AWS Community Builders](https://go.bsky.app/NFaJFWC) - [Ervin Szilagyi](https://bsky.app/profile/ervinszilagyi.dev/post/3l7dil6thov2m)
 
 ### DuckDB
 
