@@ -38,6 +38,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Infrastructure](#infrastructure)
   - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
+  - [Software Testing and Quality](#software-testing-and-quality)
   - [UI](#ui)
   - [UX](#ux)
 - [Technology](#technology)
@@ -123,6 +124,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Platform Engineering
 
 - [Platform Engineering](https://bsky.app/starter-pack/bryanross.me/3l7pz6aoenx2s) - [Bryan Ross](https://bsky.app/profile/bryanross.me/post/3l7qdk2dzck2e)
+
+### Software Testing and Quality
+
+- [Software Testing and Quality people](https://go.bsky.app/DVX3b4h) - [Ministry of Testing](https://bsky.app/profile/ministryoftesting.com)
 
 ### UI
 
