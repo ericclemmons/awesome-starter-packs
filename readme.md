@@ -213,6 +213,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Vite Ecosystem](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Vite](https://bsky.app/profile/vite.dev/post/3l7zvlirduo2z)
 
+### UnJS
+
+- [UnJS ecosystem](https://bsky.app/starter-pack/unjs.io/3la74udbl6m2s) - by [@pi0](https://bsky.app/profile/pi0.io)
+
 ### Web
 
 - [Web performance pack](https://bsky.app/starter-pack/did:plc:bxuncred3t7neoojsbsbljio/3l7m3tmqhkh23) - [Sia Karamalegos](https://bsky.app/profile/anniesullie.bsky.social/post/3l7m4acsyuc2v)
