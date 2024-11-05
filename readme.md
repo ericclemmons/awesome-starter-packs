@@ -174,6 +174,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### JavaScript
 
 - [Node.js & JavaScript](https://bsky.app/starter-pack/patrickheneise.com/3l25qs3fipj2l) - [Patrick Heneise](https://bsky.app/profile/josh412.com/post/3l7tmuofxjm2g)
+- [Web Dev Content Creators](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Laravel
 
@@ -217,8 +218,9 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Vue
 
-- [Vue Ecosystem](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Filip Rakowski](https://bsky.app/profile/filrakow.ski/post/3l7syjkblnv25)
-- [Vue and Nuxt Ecosystem](https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m) - by [Alexander Lichter](https://bsky.app/profile/thealexlichter.com)
+- [Vite Ecosystem Builders](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Filip Rakowski](https://bsky.app/profile/filrakow.ski/post/3l7syjkblnv25)
+- [Vue and Nuxt.js Developers](https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m) - by [Alexander Lichter](https://bsky.app/profile/thealexlichter.com)
+- [Vue.js Starter](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Web
 
