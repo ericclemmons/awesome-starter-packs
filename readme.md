@@ -217,7 +217,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### Vue
 
-- [Vue.js](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
+- [Vue.js](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Web
 
