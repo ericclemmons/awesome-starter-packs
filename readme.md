@@ -58,6 +58,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Solid](#solid)
   - [Svelte](#svelte)
   - [Vite](#vite)
+  - [Vue](#vue)
   - [Web](#web)
   - [Web Components](#web-components)
 - [Contributors](#contributors)
@@ -172,6 +173,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### JavaScript
 
 - [Node.js & JavaScript](https://bsky.app/starter-pack/patrickheneise.com/3l25qs3fipj2l) - [Patrick Heneise](https://bsky.app/profile/josh412.com/post/3l7tmuofxjm2g)
+- [Web Dev Content Creators](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Laravel
 
@@ -212,6 +214,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Vite
 
 - [Vite Ecosystem](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Vite](https://bsky.app/profile/vite.dev/post/3l7zvlirduo2z)
+
+### Vue
+
+- [Vue.js](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 
 ### Web
 
