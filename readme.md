@@ -116,6 +116,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Frontend
 
 - [🐴 Frontend Horse](https://go.bsky.app/TUuRD73) - [Ryan Trimble](https://bsky.app/profile/trost.codes/post/3l7slscbgkf2j)
+- [The Creative Development Circle](https://bsky.app/starter-pack/stefanobartoletti.it/3l7xvbgnc642d) - [Stefano Bartoletti](https://bsky.app/profile/stefanobartoletti.it)
 
 ### Infrastructure
 
