@@ -54,6 +54,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Python](#python)
   - [React](#react)
   - [React Native](#react-native)
+  - [Ruby](#ruby)
   - [Storybook](#storybook)
   - [Solid](#solid)
   - [Svelte](#svelte)
@@ -201,6 +202,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Expo Team](https://bsky.app/starter-pack/kadi.bsky.social/3l7pjcvfbwg2w) - by [Kadi Kraman](https://bsky.app/profile/kadi.bsky.social/post/3l7pspn4tuv2t)
 - [React Native](https://bsky.app/starter-pack-short/MsxksZZ) - by [async/await a minute](https://bsky.app/profile/coolsoftware.dev/post/3l7y4ktybgd2q)
 - [React Native](https://bsky.app/starter-pack/baumstumpf.bsky.social/3l6v6yw7fy42y) - by [Oliver Kwast](https://bsky.app/profile/baumstumpf.bsky.social/post/3l6vdsfxwpk2d)
+
+### Ruby
+
+- [Ruby and Rails](https://bsky.app/starter-pack/joshuawood.net/3kw3olx5gf72m) - by [Joshua Wood](https://bsky.app/profile/joshuawood.net/post/3l6uu4iiaih2c)
 
 ### Storybook
 
