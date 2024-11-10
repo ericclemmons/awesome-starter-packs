@@ -261,6 +261,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Vite Ecosystem Builders](https://bsky.app/starter-pack/vite.dev/3l7zuusxw672y) - by [Filip Rakowski](https://bsky.app/profile/filrakow.ski/post/3l7syjkblnv25)
 - [Vue and Nuxt.js Developers](https://bsky.app/starter-pack/thealexlichter.com/3l7px6ilbvf2m) - by [Alexander Lichter](https://bsky.app/profile/thealexlichter.com)
 - [Vue.js Starter](https://bsky.app/starter-pack/filrakow.ski/3l7syh6aqyk2s) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
+- [Nuxt.js Ecosystem Team](https://bsky.app/starter-pack-short/KFf6zff) - by [Nuxt](https://bsky.app/profile/nuxt.com)
 
 ### Web
 
