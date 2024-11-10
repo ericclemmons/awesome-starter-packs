@@ -26,6 +26,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Contents
 
+- [Entrepreneurs](#entrepreneurs)
 - [Conferences](#conferences)
 - [Organizations](#organizations)
 - [Personal](#personal)
@@ -33,9 +34,11 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Role](#role)
   - [Data](#data)
   - [DevRel](#devrel)
+  - [Diversity](#diversity)
   - [Engineering Management](#engineering-management)
   - [Frontend](#frontend)
   - [Infrastructure](#infrastructure)
+  - [Legacy Code](#legacy-code)
   - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
   - [Software Testing and Quality](#software-testing-and-quality)
@@ -48,6 +51,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [ATProto](#atproto)
   - [AWS](#aws)
   - [DuckDB](#duckdb)
+  - [CSS](#css)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
   - [Node.js](#nodejs)
@@ -58,6 +62,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Storybook](#storybook)
   - [Solid](#solid)
   - [Svelte](#svelte)
+  - [TypeScript](#typescript)
   - [UnJS](#unjs)
   - [Vite](#vite)
   - [Vue](#vue)
@@ -70,6 +75,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 <!-- CONTENT -->
 
 <!--lint disable double-link-->
+
+## Entrepreneurs
+
+- [Stacking the Bricks](https://bsky.app/starter-pack-short/MtpTx2m) - [Alex Hillman](https://bsky.app/profile/alex.stackingthebricks.com)
 
 ## Conferences
 
@@ -111,6 +120,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [DevRel Starter Pack](https://bsky.app/starter-pack/matty.wtf/3l6xheltlof2a) - [matty stratton](https://bsky.app/profile/matty.wtf/post/3l7m23ivuki2m)
 
+### Diversity
+
+- [Women in Tech](https://bsky.app/starter-pack-short/JdHEiGM) - [Anne Marie Charrett](https://bsky.app/profile/annemariecharrett.com)
+
 ### Engineering Management
 
 - [Tech Manager](https://bsky.app/starter-pack-short/J3W39y1) - [Pelayo Arbués](https://bsky.app/profile/pelayoarbues.com/post/3l7nx4mbjta2s)
@@ -124,6 +137,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Infrastructure
 
 - [Infrastructure Engineers](https://bsky.app/starter-pack-short/SCZe42X) - [Chris Riccomini](https://bsky.app/profile/chris.blue/post/3l7cfiy5jrc2s)
+
+### Legacy Code
+
+- [Legacy Code Menders](https://bsky.app/starter-pack-short/7K2QAmW) - [Nicolas Carlo](https://bsky.app/profile/nicoespeon.com)
 
 ### Linguistics
 
@@ -152,6 +169,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### .NET
 
 - [dotnet pack -c bsky --interactive](https://bsky.app/starter-pack-short/AQZrkaS) - [Ben Sampica](https://bsky.app/profile/bensampica.com/post/3l7tncvzv4z2c)
+- [.NET devs starter pack](https://bsky.app/starter-pack/saberone.dev/3l7lxasgnl62w) - [Saber Karmous](https://bsky.app/profile/saberone.dev)
 
 ### Android
 
@@ -175,6 +193,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### DuckDB
 
 - [DuckDB](https://bsky.app/starter-pack-short/J5FnG3n) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7ghxfycgq2s)
+
+### CSS
+
+- [CSS-Tricks Authors](https://bsky.app/starter-pack/css-tricks.com/3la2jvt37sh2s) - [CSS Tricks](https://bsky.app/profile/css-tricks.com)
 
 ### JavaScript
 
@@ -221,6 +243,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Svelte Fam](https://bsky.app/starter-pack-short/6Ukn2mW) - [Jacob Stordahl 🏳️‍🌈](https://bsky.app/profile/stordahl.dev/post/3l7vxvpiq7d2d)
 - [Svelte starter pack](https://go.bsky.app/QEhPG3P) - [Scott Spence](https://bsky.app/profile/scottspence.dev)
+
+### TypeScript
+
+- [TypeScript & Static Analysis](https://bsky.app/starter-pack/joshuakgoldberg.com/3la7gv7wa4722) - [Josh Goldberg](https://bsky.app/profile/joshuakgoldberg.com)
 
 ### UnJS
 
