@@ -50,8 +50,9 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Apple](#apple)
   - [ATProto](#atproto)
   - [AWS](#aws)
-  - [DuckDB](#duckdb)
   - [CSS](#css)
+  - [DuckDB](#duckdb)
+  - [Go](#go)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
   - [Node.js](#nodejs)
@@ -190,13 +191,17 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [AWS Heroes](https://go.bsky.app/EZ7AYrd) - [Chris Williams](https://bsky.app/profile/mistwire.com/post/3l7gdgvaqlv2y)
 - [AWS Community Builders](https://go.bsky.app/NFaJFWC) - [Ervin Szilagyi](https://bsky.app/profile/ervinszilagyi.dev/post/3l7dil6thov2m)
 
+### CSS
+
+- [CSS-Tricks Authors](https://bsky.app/starter-pack/css-tricks.com/3la2jvt37sh2s) - [CSS Tricks](https://bsky.app/profile/css-tricks.com)
+
 ### DuckDB
 
 - [DuckDB](https://bsky.app/starter-pack-short/J5FnG3n) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7ghxfycgq2s)
 
-### CSS
+### Go
 
-- [CSS-Tricks Authors](https://bsky.app/starter-pack/css-tricks.com/3la2jvt37sh2s) - [CSS Tricks](https://bsky.app/profile/css-tricks.com)
+- [Go Contributors](https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o) - [Daniel Martí](https://bsky.app/profile/mvdan.cc)
 
 ### JavaScript
 
