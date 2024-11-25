@@ -227,6 +227,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Web Dev Content Creators](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 - [e18e community](https://bsky.app/starter-pack-short/JoSyk5A) - [e18e](https://bsky.app/profile/e18e.dev)
 - [Node.js core Collaborators](https://bsky.app/starter-pack/trivikram.bsky.social/3lahazrmnlz2y) - [Trivikram Kamat](https://bsky.app/profile/trivikram.bsky.social/post/3lajugj5wu22y)
+- [JavaScript Tools / Libraries / Runtimes](https://bsky.app/starter-pack/trivikram.bsky.social/3lafqqndr7s2f) - [Trivikram Kamat](https://bsky.app/profile/trivikram.bsky.social/post/3lafqwxl34j24)
 
 ### Laravel
 
