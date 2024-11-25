@@ -41,6 +41,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Legacy Code](#legacy-code)
   - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
+  - [Security](#security)
   - [Software Testing and Quality](#software-testing-and-quality)
   - [UI](#ui)
   - [UX](#ux)
@@ -152,6 +153,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Platform Engineering
 
 - [Platform Engineering](https://bsky.app/starter-pack/bryanross.me/3l7pz6aoenx2s) - [Bryan Ross](https://bsky.app/profile/bryanross.me/post/3l7qdk2dzck2e)
+
+### Security
+
+- [Cybersecurity](https://bsky.app/starter-pack/0x0.boo/3lb4gtjtfq32i) - [0x0.boo‬](https://bsky.app/profile/0x0.boo)
 
 ### Software Testing and Quality
 
