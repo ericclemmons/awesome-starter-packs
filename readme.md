@@ -103,6 +103,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [GitHub Stars](https://bsky.app/starter-pack/did:plc:hdpw4dc47olxql7pyhpshvxb/3l7ljmricf22o) - [Jess Temporal](https://bsky.app/profile/jesstemporal.com/post/3l7vdn7cq6a2d)
 - [OSS TypeScript Wizards](https://bsky.app/starter-pack-short/84ChefN) - by [Colin McDonnell](https://bsky.app/profile/colinhacks.com/post/3l7yvjyhviq2l)
 - [Modern Web Dev OSS](https://go.bsky.app/8udaK5Y) - by [Simo May](https://bsky.app/profile/simomay.bsky.social)
+- [Open Web Advocacy](https://bsky.app/starter-pack/trivikram.bsky.social/3lalayo5ba223) - by [Trivikram Kamat](https://bsky.app/profile/trivikram.bsky.social/post/3lawd3y6vhc2b)
 
 ## Personal
 
