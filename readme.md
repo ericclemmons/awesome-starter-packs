@@ -28,6 +28,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Entrepreneurs](#entrepreneurs)
 - [Conferences](#conferences)
+- [Communities](#communities)
 - [Organizations](#organizations)
 - [Personal](#personal)
 - [Podcasts](#podcasts)
@@ -41,6 +42,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [Legacy Code](#legacy-code)
   - [Linguistics](#linguistics)
   - [Platform Engineering](#platform-engineering)
+  - [Security](#security)
   - [Software Testing and Quality](#software-testing-and-quality)
   - [UI](#ui)
   - [UX](#ux)
@@ -52,6 +54,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [AWS](#aws)
   - [CSS](#css)
   - [DuckDB](#duckdb)
+  - [Ember](#ember)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
@@ -79,12 +82,18 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Entrepreneurs
 
-- [Stacking the Bricks](https://bsky.app/starter-pack-short/MtpTx2m) - [Alex Hillman](https://bsky.app/profile/alex.stackingthebricks.com)
 - [Devtool founder friends](https://go.bsky.app/FRhL5Pa) - [Evil Martians](https://evilmartians.com/)
+- [Stacking the Bricks](https://bsky.app/starter-pack-short/MtpTx2m) - [Alex Hillman](https://bsky.app/profile/alex.stackingthebricks.com)
+- [Startup community](https://go.bsky.app/T2VDVi) - [Matthias Neumayer](https://bsky.app/profile/matthiasneumayer.com)
 
 ## Conferences
 
 - [NodeConfEU 2024](https://bsky.app/starter-pack-short/9jaQPgi) - by [Ruy Adorno](https://bsky.app/profile/ruyadorno.bsky.social/post/3l7ye6izjon2s)
+
+## Communities
+
+- [GitLab Community](https://bsky.app/starter-pack/dnsmichi.bsky.social/3l7t2mtkdmu22) - [Michael Friedrich](https://bsky.app/profile/did:plc:orvu3nk4bdy7edgw3bvnk4pm)
+- [Quarkus Community](https://bsky.app/starter-pack/kevindubois.bsky.social/3laqvqca6xv2l) - [Kevin Dubois](https://bsky.app/profile/did:plc:ovl46ra2l5eelnmo7zwm2oyv)
 
 ## Organizations
 
@@ -152,6 +161,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Platform Engineering](https://bsky.app/starter-pack/bryanross.me/3l7pz6aoenx2s) - [Bryan Ross](https://bsky.app/profile/bryanross.me/post/3l7qdk2dzck2e)
 
+### Security
+
+- [Cybersecurity](https://bsky.app/starter-pack/0x0.boo/3lb4gtjtfq32i) - [0x0.boo‬](https://bsky.app/profile/0x0.boo)
+
 ### Software Testing and Quality
 
 - [Software Testing and Quality people](https://go.bsky.app/DVX3b4h) - [Ministry of Testing](https://bsky.app/profile/ministryoftesting.com)
@@ -200,6 +213,11 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [DuckDB](https://bsky.app/starter-pack-short/J5FnG3n) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7ghxfycgq2s)
 
+### Ember
+
+- [Who's working on ember?](https://bsky.app/starter-pack/emberjs.com/3la53ebe77v2d) - [EmberJS](https://bsky.app/profile/emberjs.com)
+- [Building with EmberJS](https://bsky.app/starter-pack/runspired.com/3lansusdmlw23) - [runspired](https://bsky.app/profile/runspired.com)
+
 ### Go
 
 - [Go Contributors](https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o) - [Daniel Martí](https://bsky.app/profile/mvdan.cc)
@@ -210,6 +228,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 - [Web Dev Content Creators](https://bsky.app/starter-pack/filrakow.ski/3la4llcovqs2l) - [Filip Rakowski](https://bsky.app/profile/filrakow.ski)
 - [e18e community](https://bsky.app/starter-pack-short/JoSyk5A) - [e18e](https://bsky.app/profile/e18e.dev)
 - [Node.js core Collaborators](https://bsky.app/starter-pack/trivikram.bsky.social/3lahazrmnlz2y) - [Trivikram Kamat](https://bsky.app/profile/trivikram.bsky.social/post/3lajugj5wu22y)
+- [JavaScript Tools / Libraries / Runtimes](https://bsky.app/starter-pack/trivikram.bsky.social/3lafqqndr7s2f) - [Trivikram Kamat](https://bsky.app/profile/trivikram.bsky.social/post/3lafqwxl34j24)
 
 ### Laravel
 
