@@ -80,6 +80,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 ## Entrepreneurs
 
 - [Stacking the Bricks](https://bsky.app/starter-pack-short/MtpTx2m) - [Alex Hillman](https://bsky.app/profile/alex.stackingthebricks.com)
+- [Startup community](https://go.bsky.app/T2VDVi) - [Matthias Neumayer](https://bsky.app/profile/matthiasneumayer.com)
 
 ## Conferences
 
