@@ -52,6 +52,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [AWS](#aws)
   - [CSS](#css)
   - [DuckDB](#duckdb)
+  - [Ember](#ember)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
@@ -199,6 +200,11 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### DuckDB
 
 - [DuckDB](https://bsky.app/starter-pack-short/J5FnG3n) - [Tobias Müller](https://bsky.app/profile/tobilg.com/post/3l7ghxfycgq2s)
+
+### Ember
+
+- [Who's working on ember?](https://bsky.app/starter-pack/emberjs.com/3la53ebe77v2d) - [EmberJS](https://bsky.app/profile/emberjs.com)
+- [Building with EmberJS](https://bsky.app/starter-pack/runspired.com/3lansusdmlw23) - [runspired](https://bsky.app/profile/runspired.com)
 
 ### Go
 
