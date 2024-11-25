@@ -28,6 +28,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [Entrepreneurs](#entrepreneurs)
 - [Conferences](#conferences)
+- [Communities](#communities)
 - [Organizations](#organizations)
 - [Personal](#personal)
 - [Podcasts](#podcasts)
@@ -87,6 +88,11 @@ Bluesky Starter Packs to find awesome accounts to follow
 ## Conferences
 
 - [NodeConfEU 2024](https://bsky.app/starter-pack-short/9jaQPgi) - by [Ruy Adorno](https://bsky.app/profile/ruyadorno.bsky.social/post/3l7ye6izjon2s)
+
+## Communities
+
+- [GitLab Community](https://bsky.app/starter-pack/dnsmichi.bsky.social/3l7t2mtkdmu22) - [Michael Friedrich](https://bsky.app/profile/did:plc:orvu3nk4bdy7edgw3bvnk4pm)
+- [Quarkus Community](https://bsky.app/starter-pack/kevindubois.bsky.social/3laqvqca6xv2l) - [Kevin Dubois](https://bsky.app/profile/did:plc:ovl46ra2l5eelnmo7zwm2oyv)
 
 ## Organizations
 
