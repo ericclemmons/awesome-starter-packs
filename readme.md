@@ -92,7 +92,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ## Communities
 
-- [GitLab Community](https://bsky.app/starter-pack/dnsmichi.bsky.social/3l7t2mtkdmu22) - [Michael Friedrich](https://bsky.app/profile/did:plc:orvu3nk4bdy7edgw3bvnk4pm)
+- [GitLab Community](https://bsky.app/starter-pack/dnsmichi.dev/3l7t2mtkdmu22) - [Michael Friedrich](https://bsky.app/profile/dnsmichi.dev)
 - [Quarkus Community](https://bsky.app/starter-pack/kevindubois.bsky.social/3laqvqca6xv2l) - [Kevin Dubois](https://bsky.app/profile/did:plc:ovl46ra2l5eelnmo7zwm2oyv)
 
 ## Organizations
