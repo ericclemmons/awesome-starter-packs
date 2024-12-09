@@ -56,6 +56,7 @@ Bluesky Starter Packs to find awesome accounts to follow
   - [DuckDB](#duckdb)
   - [Ember](#ember)
   - [Go](#go)
+  - [Google Cloud](#google-cloud)
   - [JavaScript](#javascript)
   - [Laravel](#laravel)
   - [Node.js](#nodejs)
@@ -222,6 +223,10 @@ Bluesky Starter Packs to find awesome accounts to follow
 ### Go
 
 - [Go Contributors](https://bsky.app/starter-pack/mvdan.cc/3l7lat3zdug2o) - [Daniel Martí](https://bsky.app/profile/mvdan.cc)
+
+### Google Cloud
+
+- [Google Cloud Champion Innovators](https://go.bsky.app/8RWKWfx) - [ouvessvit](https://bsky.app/profile/ngodec.com)
 
 ### JavaScript
 
