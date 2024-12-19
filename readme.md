@@ -255,7 +255,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 ### React
 
-- TODO
+- [React ecosystem](https://bsky.app/starter-pack-short/RWZABB6) - by [Reactiflux](https://bsky.app/profile/reactiflux.com)
 
 ### React Native
 
