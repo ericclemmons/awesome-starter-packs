@@ -200,6 +200,7 @@ Bluesky Starter Packs to find awesome accounts to follow
 
 - [@ ATProto Developers](https://bsky.app/starter-pack/mackuba.eu/3kvucqy663j2l) - [Kuba Suder](https://bsky.app/profile/suboptimal.technology/post/3l7pyhso44x2q)
 - [Protocol Pals](https://bsky.app/starter-pack/samuel.bsky.team/3kztso5fnic24) - [Samuel](https://bsky.app/profile/josh412.com/post/3l7tn3ufghe2g)
+- [Bluesky.bot: Dev bots](https://bsky.app/starter-pack/bluesky.bot/3n2fol4nkaw2s) - Developer bots curated by [Bluesky.bot](https://bluesky.bot).
 
 ### AWS
 
